@@ -1,0 +1,4 @@
+name: Custom node 
+type: module
+descrition: progammatically node  creation in drupal 9
+core: 8.x
